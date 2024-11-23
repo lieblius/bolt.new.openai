@@ -1,3 +1,5 @@
+The only difference in this fork is that the Anthropic model is replaced with its OpenAI counterpart. No other changes will be made.
+
 [![Bolt.new: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://bolt.new)
 
 # Bolt.new: AI-Powered Full-Stack Web Development in the Browser
